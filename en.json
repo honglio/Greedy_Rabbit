@@ -1,0 +1,22 @@
+{
+  "c2dictionary": true,
+  "data": {
+    "Header": "设置",
+    "Bot1": "去广告",
+    "UnlockBotton": "现在解锁",
+    "Pack1": "胡萝卜",
+    "Pack2": "卷心菜",
+    "Pack3": "茄子",
+    "Pack4": "西红柿",
+    "Pack5": "土豆",
+    "Pack6": "胡椒",
+    "AlertHeader": "关",
+    "YouWin": "过关了！",
+    "Score": "分数",
+    "StarBonus": "奖励之星",
+    "TimeBonus": "奖励时间",
+    "TotalScore1": "总分",
+    "TotalScore2": "总分创新高了！",
+    "GameOver": "Game over!"
+  }
+}
